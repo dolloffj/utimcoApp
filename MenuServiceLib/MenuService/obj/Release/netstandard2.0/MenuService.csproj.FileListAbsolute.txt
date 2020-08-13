@@ -1,0 +1,9 @@
+C:\Users\Jason\source\repos\utimcoApp\MenuServiceLib\MenuService\bin\Release\netstandard2.0\MenuService.deps.json
+C:\Users\Jason\source\repos\utimcoApp\MenuServiceLib\MenuService\bin\Release\netstandard2.0\MenuService.dll
+C:\Users\Jason\source\repos\utimcoApp\MenuServiceLib\MenuService\bin\Release\netstandard2.0\MenuService.pdb
+C:\Users\Jason\source\repos\utimcoApp\MenuServiceLib\MenuService\obj\Release\netstandard2.0\MenuService.csprojAssemblyReference.cache
+C:\Users\Jason\source\repos\utimcoApp\MenuServiceLib\MenuService\obj\Release\netstandard2.0\MenuService.csproj.CoreCompileInputs.cache
+C:\Users\Jason\source\repos\utimcoApp\MenuServiceLib\MenuService\obj\Release\netstandard2.0\MenuService.AssemblyInfoInputs.cache
+C:\Users\Jason\source\repos\utimcoApp\MenuServiceLib\MenuService\obj\Release\netstandard2.0\MenuService.AssemblyInfo.cs
+C:\Users\Jason\source\repos\utimcoApp\MenuServiceLib\MenuService\obj\Release\netstandard2.0\MenuService.dll
+C:\Users\Jason\source\repos\utimcoApp\MenuServiceLib\MenuService\obj\Release\netstandard2.0\MenuService.pdb

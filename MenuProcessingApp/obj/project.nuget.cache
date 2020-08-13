@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vl5Eg6nTsl9hE7aHMH7ATxfMHHZNlCxuRnD1josurMBBKW1s9DJLLTC4Ya+FRq8Be9qLI0eqL759gAOAILiqOA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jason\\source\\repos\\utimcoApp\\MenuProcessingApp\\MenuProcessingApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jason\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

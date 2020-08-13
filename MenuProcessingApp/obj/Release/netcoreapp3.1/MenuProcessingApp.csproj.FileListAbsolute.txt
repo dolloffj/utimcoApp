@@ -1,0 +1,17 @@
+C:\Users\Jason\source\repos\utimcoApp\MenuProcessingApp\bin\Release\netcoreapp3.1\MenuProcessingApp.exe
+C:\Users\Jason\source\repos\utimcoApp\MenuProcessingApp\bin\Release\netcoreapp3.1\MenuProcessingApp.deps.json
+C:\Users\Jason\source\repos\utimcoApp\MenuProcessingApp\bin\Release\netcoreapp3.1\MenuProcessingApp.runtimeconfig.json
+C:\Users\Jason\source\repos\utimcoApp\MenuProcessingApp\bin\Release\netcoreapp3.1\MenuProcessingApp.runtimeconfig.dev.json
+C:\Users\Jason\source\repos\utimcoApp\MenuProcessingApp\bin\Release\netcoreapp3.1\MenuProcessingApp.dll
+C:\Users\Jason\source\repos\utimcoApp\MenuProcessingApp\bin\Release\netcoreapp3.1\MenuProcessingApp.pdb
+C:\Users\Jason\source\repos\utimcoApp\MenuProcessingApp\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Jason\source\repos\utimcoApp\MenuProcessingApp\bin\Release\netcoreapp3.1\MenuService.dll
+C:\Users\Jason\source\repos\utimcoApp\MenuProcessingApp\bin\Release\netcoreapp3.1\MenuService.pdb
+C:\Users\Jason\source\repos\utimcoApp\MenuProcessingApp\obj\Release\netcoreapp3.1\MenuProcessingApp.csprojAssemblyReference.cache
+C:\Users\Jason\source\repos\utimcoApp\MenuProcessingApp\obj\Release\netcoreapp3.1\MenuProcessingApp.csproj.CoreCompileInputs.cache
+C:\Users\Jason\source\repos\utimcoApp\MenuProcessingApp\obj\Release\netcoreapp3.1\MenuProcessingApp.AssemblyInfoInputs.cache
+C:\Users\Jason\source\repos\utimcoApp\MenuProcessingApp\obj\Release\netcoreapp3.1\MenuProcessingApp.AssemblyInfo.cs
+C:\Users\Jason\source\repos\utimcoApp\MenuProcessingApp\obj\Release\netcoreapp3.1\MenuProcessingApp.csproj.CopyComplete
+C:\Users\Jason\source\repos\utimcoApp\MenuProcessingApp\obj\Release\netcoreapp3.1\MenuProcessingApp.dll
+C:\Users\Jason\source\repos\utimcoApp\MenuProcessingApp\obj\Release\netcoreapp3.1\MenuProcessingApp.pdb
+C:\Users\Jason\source\repos\utimcoApp\MenuProcessingApp\obj\Release\netcoreapp3.1\MenuProcessingApp.genruntimeconfig.cache
