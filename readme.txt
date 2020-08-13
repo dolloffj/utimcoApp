@@ -7,3 +7,7 @@ It seemed like the most straighforward way to provide a solution with unit tests
 There are instructions provided to the user within the console app, along with some basic error/exception handling to allow for retries.
 
 If there seems to be anything missing from the repo, please contact me at dolloffj@gmail.com
+
+
+EDIT- I went ahead and included the released binary folders in case there are any issues building the solution on your end.
+
